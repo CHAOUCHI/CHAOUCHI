@@ -11,7 +11,7 @@ www.mangaworld35.fr : site e-commerce (WordPress, Woocommerce, Elementor) les an
 
 www.yokanime.ch : site vitrine WordPress, Elementor.
 
-Bloupy : jeu mobile sous Unity (en développement).
+Bloupy : jeu mobile sous Unity C# (en développement).
 
 www.etravaux31.fr : site vitrine sous WordPress, Elementor.
 
