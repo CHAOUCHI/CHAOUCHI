@@ -7,7 +7,7 @@ Mes réalisations :
 
 www.piscine-h2o.com : site e-commerce de vente de produit piscine sous Angular NodeJS, actuellement en cours de réalisation.
 
-www.mangaworld35.fr : site e-commerce (WordPress, Woocommerce, Elementor) les animations sont réaliser avec la bibliothèque JS [gsap](https://greensock.com/gsap/).
+www.mangaworld35.fr : site e-commerce (WordPress, Woocommerce, Elementor) les animations sont réalisées avec la bibliothèque JS [gsap](https://greensock.com/gsap/).
 
 www.yokanime.ch : site vitrine WordPress, Elementor.
 
