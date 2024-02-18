@@ -1,4 +1,4 @@
-- 👋 Bonjour, je suis Massinissa Chaouchi développeur web en freelance depuis 2020.
+Bonjour, je suis Massinissa Chaouchi développeur web en freelance depuis 2020.
 - 👀 Je suis intéressé par la programmation Front-End et Back-End (Angular, NodeJS, Symfony, HTML/CSS/JS/PHP), l'animation, le webdesign, je fais également du théâtre à coté :)
 - 🌱 Je crée des SPA et des Api Rest avec Angular et NodeJS et je crée un jeu mobile sous Unity en C#.
 - 📫 Vous pouvez me contacter par email : massi.chaouchi@gmail.com
@@ -7,7 +7,7 @@ Mes réalisations :
 
 www.fepalfu.com : jeu étudiant web et mobile acctuellement en ligne en beta test.
 
-www.piscine-h2o.com : site e-commerce de vente de produit piscine sous Angular NodeJS.
+www.choc-piscine.com : site e-commerce de vente de produit piscine sous Angular NodeJS.
 
 Bloupy : jeu mobile sous Unity C# (en développement).
 
