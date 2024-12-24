@@ -1,6 +1,8 @@
 # Bonjour le monde ! 
 Je suis Massinissa Chaouchi, développeur web en freelance depuis 2020, également formateur de développeurs web depuis 2022.
 
+> Profil GitLab : https://gitlab.com/ChaouchiM
+
 ## Mes projets actuels sont : 
 - Fepalfu, jeu à boire. Une Single Page Application Angular (une version mobile est en cours.)
 - BodeJS (Bad NodeJS), un runtime JavaScript basé sur le moteur V8 (comme nodejs). C'est un projet passion qui me permet de me remettre à la programmation bas niveau (C++).
